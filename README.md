@@ -21,9 +21,9 @@ Vielen Dank an folgende Personen die mitgewirkt haben:
 
 ## Kontakt
 
-Lars Schöbitz  <br>
-lars.schöbitz@statistik.ji.zh.ch <br>
-+41 43 259 75 68 <br>
+Statistisches Amt - Data Shop  <br>
+datashop@statistik.zh.ch <br>
++41 43 259 75 00 <br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
