@@ -1,52 +1,31 @@
 ![](https://opendata.swiss/content/uploads/2016/02/kt_zh.png)
 
-# Projekt Name
-
-*Read this in other languages: [English](README_EN.md)*
+# DINAcon2020
 
 ## Projektbeschreibung
 
-Beschreibe hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
-Bedenke, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? Ein schönes Beispiel ist hier zu finden: https://github.com/tamedia-ddj/SUV_Analyse_Schweiz
+In diesem Repo teilen wir das Präsenationsmaterial der Session ["Unsere Antwort auf COVID19: Ein Beispiel von Kollaboration und Gemeinschaft im Open Data Zeitalter"](https://dinacon.ch/sessions/2020/unsere-antwort-auf-covid19-ein-beispiel-von-kollaboration-und-gemeinschaft-im-open-data-zeitalter/) an der [DINAcon 2020](https://dinacon.ch/) (Konferenz für digitale Nachhaltigkeit) welche von der Forschungsstelle Digitale Nachhaltigkeit der Universität Bern durchgeführt wird. 
 
-## Voraussetzungen
-
-z.B.: 
-
-R version 3.5.0 (2018-04-23) <br>
-RStudio version 1.1.453 <br>
-Deppendencies: <br>
-|package name | version number |
-| ------------- | ------------- | 
-|dplyr     |    0.8.3 |
-|sf     |    0.8-1 |
+Präsentationen sind im Ordner "../praesantationsmaterial" abgelegt und folgen dem Ablauf der Session.
 
 
-R Code um die obigen Informationen zu erhalten: 
-
-```R 
-# R version
-print(version[['version.string']])
-# R Studio Version
-require(rstudioapi)
-RStudioversionInfo <- versionInfo()
-print(paste("RStudio version", RStudioversionInfo$version))
-# list names of loaded libraries with version number
-print(subset(data.frame(sessioninfo::package_info()), attached==TRUE, c(package, loadedversion)),  row.names = FALSE)
-```
 
 ## Mitwirkende
 
 Vielen Dank an folgende Personen die mitgewirkt haben: 
 
 [@kalakaru](https://github.com/kalakaru)
+[@CGRBZH](https://github.com/CGRBZH)
 [@mmznrSTAT](https://github.com/mmznrSTAT)
+[@tlorusso](https://github.com/tlorusso)
+[@metaodi](https://github.com/metaodi)
+[@larnsce](https://github.com/larnsce)
 
 ## Kontakt
 
-Vorname Nachname  <br>
-vorname.nachname@statistik.ji.zh.ch <br>
-Telefonnummer <br>
+Lars Schöbitz  <br>
+lars.schoebitz@statistik.ji.zh.ch <br>
++41 43 259 75 68 <br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
